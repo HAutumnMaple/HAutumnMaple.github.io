@@ -51,18 +51,3 @@ enableRobotsTXT = true
   # 评论总开关
   comments = true
   commentsDefault = true
-
-  # -------- Giscus --------
-  [params.giscus]
-    repo = "HAutumnMaple/HAutumnMaple.github.io"
-    repoId = "R_kgDORHghXw"
-    category = "Announcements"
-    categoryId = "DIC_kwDORHghX84C16-e"
-    mapping = "pathname"
-    strict = "0"
-    reactionsEnabled = "1"
-    emitMetadata = "0"
-    inputPosition = "top"
-    theme = "preferred_color_scheme"
-    lang = "zh-CN"
-    loading = "lazy"
