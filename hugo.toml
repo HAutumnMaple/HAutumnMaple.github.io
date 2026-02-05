@@ -50,6 +50,7 @@ enableRobotsTXT = true
 
   # 评论总开关
   comments = true
+  commentsDefault = true
 
   # -------- Giscus --------
   [params.giscus]
