@@ -1,0 +1,4 @@
+@"
+public/
+resources/
+"@ | Out-File -Encoding utf8 .gitignore

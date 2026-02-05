@@ -1,0 +1,67 @@
+baseURL = "https://HAutumnMaple.github.io/"
+languageCode = "zh-cn"
+title = "HAutumnMaple的博客"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]  # PaperMod 搜索需要 JSON 索引
+
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+  [[menu.main]]
+    name = "分类"
+    url = "/categories/"
+    weight = 3
+  [[menu.main]]
+    name = "标签"
+    url = "/tags/"
+    weight = 4
+  [[menu.main]]
+    name = "关于"
+    url = "/about/"
+    weight = 5
+  [[menu.main]]
+    name = "搜索"
+    url = "/search/"
+    weight = 6
+
+[params]
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowShareButtons = false
+
+  # 评论总开关
+  comments = true
+
+  # -------- Giscus --------
+  [params.giscus]
+    repo = "HAutumnMaple/HAutumnMaple.github.io"
+    repoId = "R_kgDORHghXw"
+    category = "Announcements"
+    categoryId = "DIC_kwDORHghX84C16-e"
+    mapping = "pathname"
+    strict = "0"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "top"
+    theme = "preferred_color_scheme"
+    lang = "zh-CN"
+    loading = "lazy"
