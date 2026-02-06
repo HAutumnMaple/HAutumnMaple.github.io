@@ -1,7 +1,6 @@
 +++
-title = "General_commands"
+title = "学习工作常用命令"
 date = "2026-02-06T18:48:11+08:00"
-draft = true
 
 categories = ["学习"]
 tags = ["工作", "常用命令"]
