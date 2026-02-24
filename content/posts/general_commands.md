@@ -13,6 +13,7 @@ tags = ["工作", "常用命令"]
 hugo help # help栏
 hugo server # 无草稿本地预览
 hugo server -D # 全部内容本地预览
+hugo --gc --minify # 清理缓存后构建
 hugo new posts/xxx.md # 在post中创建一篇新博客
 rm ./content/posts/my-first-post.md # 删除一篇博客
 hugo new xxx.md # 创建一个新页面

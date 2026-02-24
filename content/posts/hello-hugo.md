@@ -3,7 +3,7 @@ title: "Hello Hugo"
 date: 2026-02-05
 draft: false
 comments: true
-categories: ["学习"]
+categories: ["测试"]
 tags: ["Hugo", "PaperMod"]
 ---
 
