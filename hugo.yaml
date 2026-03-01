@@ -66,6 +66,8 @@ params:
   ShowShareButtons: true
   ShowWordCount: true
   hideSummary: true
+  ShowToc: true
+  TocOpen: true
 
   comments: true
   commentsDefault: true

@@ -23,6 +23,8 @@ tags = ["博客创建", "笔记"]
 
 [给Hugo PaperMod增加giscus评论系统 | 老刘博客](https://iliu.org/posts/add-comment-system-to-hugopapermo/)
 
+[用Hugo搭建个人博客——显示目录 | 慢步道人](https://afrusrsc.github.io/posts/blog/hugo04/)
+
 ## Hugo + PaperMod搭建博客
 
 ### 1.安装必要工具
@@ -659,7 +661,9 @@ html {
 mkdir static\images
 ```
 
+## 显示目录要求看博客：
 
+[用Hugo搭建个人博客——显示目录 | 慢步道人](https://afrusrsc.github.io/posts/blog/hugo04/)
 
 ## 换电脑后，重新写博客的启动命令
 
