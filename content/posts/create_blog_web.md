@@ -256,7 +256,7 @@ git push origin main
 
 在项目中找到setting设置，然后勾选，如下图所示
 
-![image-20260224181204249](/images/image-20260224181204249.png)
+![image-20260224181204249](/images/QQ20260224-181235.png)
 
 然后使用该网站[GitHub Apps - giscus](https://github.com/apps/giscus)进行下载并且选择该仓库进行配置：
 
